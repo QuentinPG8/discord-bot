@@ -12,7 +12,6 @@
   "version": "1.0.0",
   "description": "Bot Musique",
   "main": "main.js",
-  "devDependencies": {},
 
   "scripts": {
     "start": "node main.js"
