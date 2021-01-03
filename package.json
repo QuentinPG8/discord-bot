@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^4.3.0"
+  },
+  "name": "discorbot",
+  "version": "1.0.0",
+  "description": "Bot Musique",
+  "main": "main.js",
+  "devDependencies": {},
+
+  "scripts": {
+    "start": "node main.js"
+  }
+ 
+}
